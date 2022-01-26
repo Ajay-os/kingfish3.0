@@ -1,4 +1,4 @@
-import os, sys, colorama
+import os, sys
 os.system("clear")
 print("""
 
